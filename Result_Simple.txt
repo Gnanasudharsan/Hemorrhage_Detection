@@ -1,0 +1,135 @@
+Model testing begins...
+
+Epoch 1:
+
+    KNeighborsClassifier-EMD predicted: No Hemorrhage | Correct label: No Hemorrhage
+    KNeighborsClassifier predicted: Hemorrhage | Correct label: Hemorrhage
+    SVM-LINEAR predicted: No Hemorrhage | Correct label: No Hemorrhage
+    SVM-POLY predicted: Hemorrhage | Correct label: No Hemorrhage
+    SVM-RBF predicted: Hemorrhage | Correct label: No Hemorrhage
+    SVM-SIGMOID predicted: No Hemorrhage | Correct label: No Hemorrhage
+    RandomForestClassifier predicted: No Hemorrhage | Correct label: No Hemorrhage
+    DecisionTreeClassifier predicted: No Hemorrhage | Correct label: No Hemorrhage
+    AdaBoostClassifier predicted: No Hemorrhage | Correct label: No Hemorrhage
+
+Epoch 2:
+
+    KNeighborsClassifier-EMD predicted: No Hemorrhage | Correct label: Hemorrhage
+    KNeighborsClassifier predicted: No Hemorrhage | Correct label: No Hemorrhage
+    SVM-LINEAR predicted: Hemorrhage | Correct label: No Hemorrhage
+    SVM-POLY predicted: Hemorrhage | Correct label: Hemorrhage
+    SVM-RBF predicted: No Hemorrhage | Correct label: No Hemorrhage
+    SVM-SIGMOID predicted: Hemorrhage | Correct label: Hemorrhage
+    RandomForestClassifier predicted: Hemorrhage | Correct label: Hemorrhage
+    DecisionTreeClassifier predicted: No Hemorrhage | Correct label: No Hemorrhage
+    AdaBoostClassifier predicted: Hemorrhage | Correct label: Hemorrhage
+
+Epoch 3:
+
+    KNeighborsClassifier-EMD predicted: No Hemorrhage | Correct label: No Hemorrhage
+    KNeighborsClassifier predicted: Hemorrhage | Correct label: No Hemorrhage
+    SVM-LINEAR predicted: Hemorrhage | Correct label: No Hemorrhage
+    SVM-POLY predicted: No Hemorrhage | Correct label: No Hemorrhage
+    SVM-RBF predicted: Hemorrhage | Correct label: Hemorrhage
+    SVM-SIGMOID predicted: Hemorrhage | Correct label: No Hemorrhage
+    RandomForestClassifier predicted: No Hemorrhage | Correct label: No Hemorrhage
+    DecisionTreeClassifier predicted: Hemorrhage | Correct label: Hemorrhage
+    AdaBoostClassifier predicted: Hemorrhage | Correct label: Hemorrhage
+
+Epoch 4:
+
+    KNeighborsClassifier-EMD predicted: No Hemorrhage | Correct label: No Hemorrhage
+    KNeighborsClassifier predicted: No Hemorrhage | Correct label: No Hemorrhage
+    SVM-LINEAR predicted: Hemorrhage | Correct label: No Hemorrhage
+    SVM-POLY predicted: No Hemorrhage | Correct label: No Hemorrhage
+    SVM-RBF predicted: Hemorrhage | Correct label: Hemorrhage
+    SVM-SIGMOID predicted: Hemorrhage | Correct label: No Hemorrhage
+    RandomForestClassifier predicted: No Hemorrhage | Correct label: No Hemorrhage
+    DecisionTreeClassifier predicted: Hemorrhage | Correct label: No Hemorrhage
+    AdaBoostClassifier predicted: No Hemorrhage | Correct label: No Hemorrhage
+
+Epoch 5:
+
+    KNeighborsClassifier-EMD predicted: No Hemorrhage | Correct label: No Hemorrhage
+    KNeighborsClassifier predicted: Hemorrhage | Correct label: Hemorrhage
+    SVM-LINEAR predicted: Hemorrhage | Correct label: No Hemorrhage
+    SVM-POLY predicted: Hemorrhage | Correct label: No Hemorrhage
+    SVM-RBF predicted: Hemorrhage | Correct label: Hemorrhage
+    SVM-SIGMOID predicted: Hemorrhage | Correct label: No Hemorrhage
+    RandomForestClassifier predicted: No Hemorrhage | Correct label: No Hemorrhage
+    DecisionTreeClassifier predicted: Hemorrhage | Correct label: Hemorrhage
+    AdaBoostClassifier predicted: Hemorrhage | Correct label: Hemorrhage
+
+Epoch 6:
+
+    KNeighborsClassifier-EMD predicted: Hemorrhage | Correct label: Hemorrhage
+    KNeighborsClassifier predicted: Hemorrhage | Correct label: Hemorrhage
+    SVM-LINEAR predicted: Hemorrhage | Correct label: No Hemorrhage
+    SVM-POLY predicted: Hemorrhage | Correct label: No Hemorrhage
+    SVM-RBF predicted: Hemorrhage | Correct label: No Hemorrhage
+    SVM-SIGMOID predicted: Hemorrhage | Correct label: Hemorrhage
+    RandomForestClassifier predicted: Hemorrhage | Correct label: No Hemorrhage
+    DecisionTreeClassifier predicted: Hemorrhage | Correct label: No Hemorrhage
+    AdaBoostClassifier predicted: Hemorrhage | Correct label: Hemorrhage
+
+Epoch 7:
+
+    KNeighborsClassifier-EMD predicted: Hemorrhage | Correct label: Hemorrhage
+    KNeighborsClassifier predicted: No Hemorrhage | Correct label: No Hemorrhage
+    SVM-LINEAR predicted: Hemorrhage | Correct label: Hemorrhage
+    SVM-POLY predicted: No Hemorrhage | Correct label: No Hemorrhage
+    SVM-RBF predicted: Hemorrhage | Correct label: Hemorrhage
+    SVM-SIGMOID predicted: No Hemorrhage | Correct label: No Hemorrhage
+    RandomForestClassifier predicted: No Hemorrhage | Correct label: No Hemorrhage
+    DecisionTreeClassifier predicted: No Hemorrhage | Correct label: No Hemorrhage
+    AdaBoostClassifier predicted: Hemorrhage | Correct label: Hemorrhage
+
+Epoch 8:
+
+    KNeighborsClassifier-EMD predicted: No Hemorrhage | Correct label: No Hemorrhage
+    KNeighborsClassifier predicted: No Hemorrhage | Correct label: Hemorrhage
+    SVM-LINEAR predicted: Hemorrhage | Correct label: No Hemorrhage
+    SVM-POLY predicted: Hemorrhage | Correct label: No Hemorrhage
+    SVM-RBF predicted: No Hemorrhage | Correct label: No Hemorrhage
+    SVM-SIGMOID predicted: Hemorrhage | Correct label: No Hemorrhage
+    RandomForestClassifier predicted: Hemorrhage | Correct label: No Hemorrhage
+    DecisionTreeClassifier predicted: Hemorrhage | Correct label: Hemorrhage
+    AdaBoostClassifier predicted: Hemorrhage | Correct label: No Hemorrhage
+
+Epoch 9:
+
+    KNeighborsClassifier-EMD predicted: No Hemorrhage | Correct label: No Hemorrhage
+    KNeighborsClassifier predicted: Hemorrhage | Correct label: No Hemorrhage
+    SVM-LINEAR predicted: Hemorrhage | Correct label: Hemorrhage
+    SVM-POLY predicted: Hemorrhage | Correct label: Hemorrhage
+    SVM-RBF predicted: Hemorrhage | Correct label: Hemorrhage
+    SVM-SIGMOID predicted: No Hemorrhage | Correct label: Hemorrhage
+    RandomForestClassifier predicted: No Hemorrhage | Correct label: No Hemorrhage
+    DecisionTreeClassifier predicted: Hemorrhage | Correct label: Hemorrhage
+    AdaBoostClassifier predicted: No Hemorrhage | Correct label: No Hemorrhage
+
+Epoch 10:
+
+    KNeighborsClassifier-EMD predicted: No Hemorrhage | Correct label: No Hemorrhage
+    KNeighborsClassifier predicted: Hemorrhage | Correct label: No Hemorrhage
+    SVM-LINEAR predicted: No Hemorrhage | Correct label: No Hemorrhage
+    SVM-POLY predicted: No Hemorrhage | Correct label: No Hemorrhage
+    SVM-RBF predicted: Hemorrhage | Correct label: Hemorrhage
+    SVM-SIGMOID predicted: No Hemorrhage | Correct label: No Hemorrhage
+    RandomForestClassifier predicted: Hemorrhage | Correct label: Hemorrhage
+    DecisionTreeClassifier predicted: Hemorrhage | Correct label: Hemorrhage
+    AdaBoostClassifier predicted: Hemorrhage | Correct label: Hemorrhage
+
+Feature extraction method: Method.SIMPLE
+
+Average results for the models:
+
+    knn-EMD: 70.00%
+    knn: 90.00%
+    svm-linear: 80.00%
+    svm-poly: 80.00%
+    svm-RBF: 82.50%
+    svm-sigmoid: 25.00%
+    random forest: 85.00%
+    decision tree: 72.50%
+    adaBoost: 77.50%
