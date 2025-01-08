@@ -53,3 +53,4 @@ Conclusion:
 The project demonstrated that convolutional neural networks are highly effective for image classification tasks in medical imaging, achieving perfect accuracy. The Simple approach also produced better results than the histogram-based method, confirming that resizing and simplifying images is sufficient for many classifiers.
 
 The integrated approach mentioned in the research focused on combining active contours and decision tree classifiers to improve hemorrhage detection accuracy. Active contours were particularly useful in defining hemorrhage regions, while decision trees classified the hemorrhage types based on extracted features like area and perimeter. The system achieved an overall accuracy of 92.5%.
+These are the requirements and results documentation.
